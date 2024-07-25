@@ -70,9 +70,10 @@ select {
 
 .frameworks-list {
   list-style-image: url(./assets/images/Vector.svg);
-  padding: 0px 20px;
-  font-size: 16
- 
+  padding:0px 20px;
+  font-size: 16px;
+}
+
 .books-list {
   padding: 0px 20px;
   font-size: 16px;
@@ -123,6 +124,6 @@ footer {
 }
 
 .footer-link {
-  color: #2965f1;
+	color: #2965f1;
   text-decoration: none;
 }
