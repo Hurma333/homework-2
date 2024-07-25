@@ -70,12 +70,11 @@ select {
 
 .frameworks-list {
   list-style-image: url(./assets/images/Vector.svg);
-  padding-left: 20px;
-  font-size: 16px;
-}
-
+  padding: 0px 20px;
+  font-size: 16
+ 
 .books-list {
-  padding-left: 20px;
+  padding: 0px 20px;
   font-size: 16px;
 }
 
@@ -114,7 +113,7 @@ table {
 
 th,
 td {
-  padding: 12px 14px;
+  padding: 12px 15px;
 	border: 1px solid rgba(149, 161, 187, 1)
 }
 
